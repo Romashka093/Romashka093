@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Anna and I'm Front-End Developer 👋
 
-<!--
-**Romashka093/Romashka093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- HTML, CSS, JavaScript
+- React, Redux, React hooks
+- Responsive design, SCSS/SASS
+- UI/UX implementation
+- Collaborative, problem-solving
+- Project delivery, code quality
+- Performance optimization
+- Up-to-date with latest technologies
+- Detail-oriented, clean code
+- Strong communication, teamwork
 
-Here are some ideas to get you started:
+## [my short CV](https://romashchenko-cv.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Romashka093&theme=transparent&layout=compact" />
