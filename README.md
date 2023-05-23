@@ -11,6 +11,27 @@
 - Detail-oriented, clean code
 - Strong communication, teamwork
 
-## [my short CV](https://romashchenko-cv.vercel.app/)
+---
 
-<img alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Romashka093&theme=transparent&layout=compact" />
+### 🤝 Connect with me:
+
+## 🤓 [short CV summary](https://romashchenko-cv.vercel.app/)
+
+---
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+     <img height="200px" align="left" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Romashka093&theme=transparent&layout=compact" />
+    </td>
+    <td>
+ <img  height="200px" align="right" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Romashka093&theme=transparent&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romashka093&theme=transparent&layout=compact" alt="Github stats" />
+
+<img alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Romashka093&theme=transparent&layout=compact" /> -->
